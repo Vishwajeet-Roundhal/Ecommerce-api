@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-URI = "mongodb+srv://<gmail>:<password>@restapi.fn424fc.mongodb.net/?retryWrites=true&w=majority&appName=RestApi"
+URI = "mongodb+srv://<gmail>:<password>@restapi.fn424fc.mongodb.net/?retryWrites=true&w=majority&appName=<dbname>"
 
 const connectDB = async () => {
     try {
