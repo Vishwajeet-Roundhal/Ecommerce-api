@@ -6,6 +6,6 @@
 
 ## Contribution
 1. Fork the project
-2. Create branch and push to branch
+2. Create your branch, commit your changes and push to branch
 3. open the pull request
 
